@@ -8,12 +8,12 @@ const {
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://api-mirip-zeks.andhikanurdyans.repl.co', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'z8HWJgU8', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://api-mirip-zeks.andhikanurdyans.repl.co': 'Alphabot', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
@@ -39,8 +39,8 @@ global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "19095059766"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6289605356845'] //premium user
+global.owner = ["6289605356845", "19095059766"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "19095059766" // nomor wa kalian
 global.ownernomerr = "+19095059766" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
