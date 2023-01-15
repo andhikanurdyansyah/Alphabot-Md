@@ -8,12 +8,12 @@ const {
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api-mirip-zeks.andhikanurdyans.repl.co', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://api.xzaynn.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api-mirip-zeks.andhikanurdyans.repl.co': 'Alphabot', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://api.xzaynn.my.id': 'Alphabot', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
